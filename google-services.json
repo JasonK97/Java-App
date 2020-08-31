@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "825641510769",
+    "firebase_url": "https://naturelogin.firebaseio.com",
+    "project_id": "naturelogin",
+    "storage_bucket": "naturelogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825641510769:android:104bb2bb792963aa56b8d0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825641510769-43m8pkm67o4bu4i6r7jeo5f2ahaoe5u2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "78aa3da9413d158e2e0f5823532507104011144c"
+          }
+        },
+        {
+          "client_id": "825641510769-rplgdna8kocimp74fkuq7804fsl545u3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "0877d4ce1e973058c23513693797056320e80f29"
+          }
+        },
+        {
+          "client_id": "825641510769-42g9ckiqvuc93j70bqgsbkt8nbhi8ad2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "7668f53f6166bdb408452d9a90651727e2833b87"
+          }
+        },
+        {
+          "client_id": "825641510769-8id3edjeqq0u60vhvd4cif4hb404l3qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsMcbnsGjamI5fTWYUbjWO5I9xgzOce_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825641510769-8id3edjeqq0u60vhvd4cif4hb404l3qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825641510769:android:9f1115a08282777356b8d0",
+        "android_client_info": {
+          "package_name": "com.example.naturecalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825641510769-m0bcqonvt85jao6na4ij17h830v2sbmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.naturecalls",
+            "certificate_hash": "7668f53f6166bdb408452d9a90651727e2833b87"
+          }
+        },
+        {
+          "client_id": "825641510769-8id3edjeqq0u60vhvd4cif4hb404l3qp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsMcbnsGjamI5fTWYUbjWO5I9xgzOce_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825641510769-8id3edjeqq0u60vhvd4cif4hb404l3qp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
