@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309018455285",
+    "firebase_url": "https://nature-calls-d4467.firebaseio.com",
+    "project_id": "nature-calls-d4467",
+    "storage_bucket": "nature-calls-d4467.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309018455285:android:ad387f92cc9a441983a9bc",
+        "android_client_info": {
+          "package_name": "dukeapps.naturecalls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309018455285-tii2jvr3th31rbcprik5bghpkcq9kqrp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dukeapps.naturecalls",
+            "certificate_hash": "b75a0eddfcbe2d99c36aea64dc5b98a0498108a7"
+          }
+        },
+        {
+          "client_id": "309018455285-9hrtqh66ljegmf5l3k846g4u05qmult8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9zXaiHWaD4asW1_d58M7t9u5C3xLi-J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309018455285-9hrtqh66ljegmf5l3k846g4u05qmult8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
